@@ -70,11 +70,11 @@ Each folder contains implementation, usage examples, and notes.
 
 ## 📝 References
 
-https://medium.com/analytics-vidhya/fundamentals-of-bag-of-words-and-tf-idf-9846d301ff22
-https://medium.com/analytics-vidhya/deep-dive-into-word2vec-7fcefa765c17
-https://towardsdatascience.com/attention-is-all-you-need-discovering-the-transformer-paper-73e5ff5e0634/
-https://medium.com/@mervebdurna/advanced-word-embeddings-word2vec-glove-and-fasttext-26e546ffedbd
-https://sainivedh.medium.com/introduction-to-glove-embeddings-9f57d48d0ce4
+- https://medium.com/analytics-vidhya/fundamentals-of-bag-of-words-and-tf-idf-9846d301ff22
+- https://medium.com/analytics-vidhya/deep-dive-into-word2vec-7fcefa765c17
+- https://towardsdatascience.com/attention-is-all-you-need-discovering-the-transformer-paper-73e5ff5e0634/
+- https://medium.com/@mervebdurna/advanced-word-embeddings-word2vec-glove-and-fasttext-26e546ffedbd
+- https://sainivedh.medium.com/introduction-to-glove-embeddings-9f57d48d0ce4
 
 - Mikolov, T., et al. "Efficient Estimation of Word Representations in Vector Space." (Word2Vec)
 - Pennington, J., Socher, R., & Manning, C.D. "GloVe: Global Vectors for Word Representation."
